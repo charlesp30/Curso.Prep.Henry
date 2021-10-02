@@ -1,0 +1,9 @@
+Variables:
+    Las variables se usan para guardar datos en memoria para luego ser usados por el programa. Estos datos 
+    pueden ser de diferentes tipos (numéricos, alfanuméricos, lógicos o booleanos, etc).
+
+Strings:
+    Es una cadena de caracteres, que puede ser visto como un array(arreglo) de caracteres.
+
+Funciones:
+    
